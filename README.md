@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aminerochdi1
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate 
 
 
 <!---
