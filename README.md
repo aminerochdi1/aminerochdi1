@@ -19,6 +19,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aminerochdi1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aminerochdi1" /></a></p><br><br>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/wQalJEIkSWUaVTXHHB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/stickers/buymeacoffee-transparent-buy-me-a-coffee-support-wQalJEIkSWUaVTXHHB">via GIPHY</a></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminerochdi1&show_icons=true&locale=en" alt="aminerochdi1" /></p>
