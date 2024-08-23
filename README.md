@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminerochdi1" alt="aminerochdi1" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel , GO**
+- 🌱 I’m currently learning **NextJS , GO**
 
 - Contact me on this email **mo.aminerochdi@gmail.com**
 
