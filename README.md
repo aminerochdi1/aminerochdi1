@@ -75,7 +75,7 @@ I am passionate about writing clean, maintainable code and building products tha
 </p>
 
 ---
-
+<!--
 ### Featured Projects
 
 #### 🏠 Trust Logement
@@ -83,7 +83,7 @@ I am passionate about writing clean, maintainable code and building products tha
 > A modern real estate platform built with **React**, **Vite**, and **React Router**.  
 > Designed for seamless property browsing with dynamic filtering, date-range selection, and a responsive, polished UI.
 
-<!-- Add more projects below as you build them -->
+ Add more projects below as you build them -->
 
 <!--
 #### 📦 Project Name
