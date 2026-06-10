@@ -91,7 +91,7 @@ I am passionate about writing clean, maintainable code and building products tha
 > **Tech:** React, Node.js, PostgreSQL, Docker
 >
 > [Repository](https://github.com/aminerochdi1/project-name) · [Live Demo](https://demo-link.com)
--->
+
 
 ---
 
@@ -108,7 +108,7 @@ I am passionate about writing clean, maintainable code and building products tha
 </p>
 
 ---
-
+-->
 ### Education
 
 🎓 **IT Engineering School** — Orléans, France  
