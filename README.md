@@ -74,7 +74,6 @@ I am passionate about writing clean, maintainable code and building products tha
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
----
 <!--
 ### Featured Projects
 
