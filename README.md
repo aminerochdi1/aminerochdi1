@@ -1,6 +1,6 @@
 <h1 align="center">Mohammed Amine ROCHDI</h1>
 
-<h3 align="center">Full-Stack Software Engineer · Berlin, Germany</h3>
+<h3 align="center">Full-Stack Software Engineer </h3>
 
 <p align="center">
   <em>Building reliable, scalable, and user-centric web applications.<br/>Open to full-stack engineering opportunities — on-site, hybrid, or remote.</em>
