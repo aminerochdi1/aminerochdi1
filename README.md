@@ -20,7 +20,7 @@
 
 ### About Me
 
-I am a full-stack software engineer based in Berlin, Germany, with a strong foundation in modern web technologies and software architecture. I graduated from an IT engineering school in Orléans, France, where I developed a deep understanding of computer science fundamentals, system design, and professional software development practices.
+I am a full-stack software engineer , with a strong foundation in modern web technologies and software architecture. I graduated from an IT engineering school in Orléans, France, where I developed a deep understanding of computer science fundamentals, system design, and professional software development practices.
 
 I am passionate about writing clean, maintainable code and building products that solve real problems. I thrive in collaborative environments and bring both precision and creativity to every project I work on.
 
