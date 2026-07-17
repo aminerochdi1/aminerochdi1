@@ -108,17 +108,18 @@ I am passionate about writing clean, maintainable code and building products tha
 </p>
 
 ---
--->
+
 ### Education
 
 🎓 **IT Engineering School** — Orléans, France  
 Software Engineering · Full-Stack Development · Computer Science Fundamentals
 
 ---
+-->
 
 ### Let's Connect
 
-I am actively looking for **full-stack software engineering** positions in Germany and beyond. If you're hiring or want to collaborate on an interesting project, I'd love to hear from you.
+I am actively looking for **full-stack software engineering** positions . If you're hiring or want to collaborate on an interesting project, I'd love to hear from you.
 
 <p align="center">
   <a href="mailto:mo.aminerochdi@gmail.com">
